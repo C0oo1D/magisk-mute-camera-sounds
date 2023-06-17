@@ -1,5 +1,5 @@
-## Mute Camera Sounds v1
-Was created because existing solutions stopped working after updating xiaomi.eu firmware to android 11 (MIUI 12.5).
+## Mute Camera Sounds v2
+Was created because existing solutions stopped working after updating xiaomi.eu firmware to android 11 (MIUI 12.5), and 12 (MIUI 14) in v2.
 It turned out that sounds taken from `product` root directory, not `system`, as it was before.
 But for greater reliability, sounds was replaced in all found places.
 
