@@ -1,0 +1,6 @@
+id=mute_camera_sounds
+name=Mute Camera Sounds
+version=v1
+versionCode=1
+author=C0oo1D
+description=Mute stock sounds used by photo and video recorders. Tested on MIUI 12.5 (Android 11)
